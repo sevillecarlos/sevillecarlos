@@ -14,15 +14,16 @@ My name is Carlos Sevilla, a full stack developer always looking for new challen
 
 ### ⚙️ Technology that I have worked
 
-![](https://img.shields.io/badge/Front--End-HTML-yellow)
-![](https://img.shields.io/badge/Front--End-CSS-yellow)
+![](https://img.shields.io/badge/Front--End-HTML-orange)
+![](https://img.shields.io/badge/Front--End-CSS-blue)
 ![](https://img.shields.io/badge/Front--End-JavaScript-yellow)
-![](https://img.shields.io/badge/Front--End-TypeScript-yellow)
-![](https://img.shields.io/badge/Front--End-Vue-yellow)
-![](https://img.shields.io/badge/Back--End-ReactAndRedux-yellow)
-![](https://img.shields.io/badge/Back--End-Ruby-orange)
-![](https://img.shields.io/badge/Back--End-RubyOnRails-orange)
-![](https://img.shields.io/badge/Back--End-NodeJS-orange)
+![](https://img.shields.io/badge/Front--End-TypeScript-blue)
+![](https://img.shields.io/badge/Front--End-Vue-green)
+![](https://img.shields.io/badge/Back--End-ReactAndRedux-purple)
+![](https://img.shields.io/badge/Back--End-Vuex-green)
+![](https://img.shields.io/badge/Back--End-Ruby-red)
+![](https://img.shields.io/badge/Back--End-RubyOnRails-red)
+![](https://img.shields.io/badge/Back--End-NodeJS-green)
 ### 📖 I’m currently learning 
 ![](https://img.shields.io/badge/Front--End-Ember-red)
 ![](https://img.shields.io/badge/Back--End-DJango-green)
