@@ -1,14 +1,9 @@
 ## Carlos Alberto Sevilla Fernandez - Full Stack Developer
 ### Hi there 👋
 
-My name is Juan. Front-end and Back-end web developer experienced in JavaScript, React and Ruby on Rails, improving constantly.
+My name is Carlos Sevilla. Front-end and Back-end web developer experienced in JavaScript, React and Ruby on Rails, improving constantly.
 Available for hire.
 
-### 💪 Current Goals: 
-
-- :earth_africa: Work on project that takes me around the world
-- 📘 Learn and keep growing
-- ✌️ Collaborate with the best ones
 ### 📫 How to reach me: 
 
 email: sevillecarlos@gmail.com
@@ -17,7 +12,7 @@ email: sevillecarlos@gmail.com
 
 [Portfolio](https://carlos-sevilla.netlify.app/)
 
-### :muscle: Mastered
+### ⚙️ Technology that I have worked
 
 ![](https://img.shields.io/badge/Front--End-HTML-yellow)
 ![](https://img.shields.io/badge/Front--End-CSS-yellow)
