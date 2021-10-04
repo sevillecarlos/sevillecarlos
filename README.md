@@ -28,9 +28,6 @@ My name is Carlos Sevilla, a full stack developer always looking for new challen
 ![](https://img.shields.io/badge/Back--End-DJango-orange)
 
 ## 🖥️ Relevant Projects
-<a href="https://github.com/Jarfsoft/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarfsoft&repo=Article-page" />
-</a>
-<a href="https://github.com/Jarfsoft/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarfsoft&repo=find-page" />
+<a href="https://github.com/sevillecarlos/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sevillcarlos&repo=commerc-e" />
 </a>
