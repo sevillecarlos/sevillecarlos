@@ -10,7 +10,7 @@ email: sevillecarlos@gmail.com
 
 ## :briefcase: Projects' Portfolio
 
-[Portfolio](https://carlos-sevilla.netlify.app/)
+[Carlos Sevilla Portafolio](https://carlos-sevilla.netlify.app/)
 
 ### ⚙️ Technology that I have worked
 
@@ -23,7 +23,7 @@ email: sevillecarlos@gmail.com
 ![](https://img.shields.io/badge/Back--End-Ruby-orange)
 ![](https://img.shields.io/badge/Back--End-RubyOnRails-orange)
 ![](https://img.shields.io/badge/Back--End-NodeJS-orange)
-### 🌱 I’m currently learning 
+### 📖 I’m currently learning 
 
 ![](https://img.shields.io/badge/Back--End-DJango-orange)
 
