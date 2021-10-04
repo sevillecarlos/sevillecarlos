@@ -30,5 +30,12 @@ email: sevillecarlos@gmail.com
 ![](https://img.shields.io/badge/Back--End-NodeJS-orange)
 ### 🌱 I’m currently learning 
 
-
 ![](https://img.shields.io/badge/Back--End-DJango-orange)
+
+## 🖥️ Relevant Projects
+<a href="https://github.com/Jarfsoft/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarfsoft&repo=Article-page" />
+</a>
+<a href="https://github.com/Jarfsoft/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarfsoft&repo=find-page" />
+</a>
