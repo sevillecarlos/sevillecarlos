@@ -22,14 +22,16 @@ Available for hire.
 ![](https://img.shields.io/badge/Front--End-HTML-yellow)
 ![](https://img.shields.io/badge/Front--End-CSS-yellow)
 ![](https://img.shields.io/badge/Front--End-JavaScript-yellow)
+![](https://img.shields.io/badge/Front--End-TypeScript-yellow)
+![](https://img.shields.io/badge/Front--End-Vue-yellow)
+![](https://img.shields.io/badge/Back--End-NodeJS-yellow)
 ![](https://img.shields.io/badge/Back--End-ReactAndRedux-yellow)
 ![](https://img.shields.io/badge/Back--End-Ruby-orange)
 ![](https://img.shields.io/badge/Back--End-RubyOnRails-orange)
 
 ### 🌱 I’m currently learning 
 
-![](https://img.shields.io/badge/Front--End-Vue-yellow)
-![](https://img.shields.io/badge/Front--End-TypeScript-yellow)
+
 ![](https://img.shields.io/badge/Back--End-Elixir-orange)
 
 
