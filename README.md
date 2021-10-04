@@ -29,6 +29,9 @@ My name is Carlos Sevilla, a full stack developer always looking for new challen
 ![](https://img.shields.io/badge/Library-Vuex-green)
 ![](https://img.shields.io/badge/Library-Redux-purple)
 
+![](https://img.shields.io/badge/Database-MySQL-yellow)
+![](https://img.shields.io/badge/Database-MongoDB-green)
+
 ### 📖 I’m currently learning 
 ![](https://img.shields.io/badge/Front--End-Ember-red)
 ![](https://img.shields.io/badge/Back--End-DJango-green)
