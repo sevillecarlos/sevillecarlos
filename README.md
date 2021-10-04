@@ -4,10 +4,10 @@
 My name is Carlos Sevilla. Front-end and Back-end web developer experienced in JavaScript, React and Ruby on Rails, improving constantly.
 Available for hire.
 
-### 📫 How to reach me: 
+### 📇 Get in contact with me: 
 
-email: sevillecarlos@gmail.com
-
+📧Email: sevillecarlos@gmail.com
+🔗LinkedIn [Carlos Sevilla LinkedIn](https://www.linkedin.com/in/carlos-alberto-sevilla/)
 ## :briefcase: Projects' Portfolio
 
 [Carlos Sevilla Portafolio](https://carlos-sevilla.netlify.app/)
