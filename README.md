@@ -12,7 +12,7 @@ My name is Carlos Sevilla, a full stack developer always looking for new challen
 
 [Carlos Sevilla Portafolio](https://carlos-sevilla.netlify.app/)
 
-### ⚙️ Technology that I have worked
+### ⚙️ Development Technologies that I have worked
 ![](https://img.shields.io/badge/Programming--Language-JavaScript-yellow)
 ![](https://img.shields.io/badge/Programming--Language-TypeScript-blue)
 ![](https://img.shields.io/badge/Programming--Language-Ruby-red)
