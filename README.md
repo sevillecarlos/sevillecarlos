@@ -7,6 +7,7 @@ Available for hire.
 ### 📇 Get in contact with me: 
 
 📧Email: sevillecarlos@gmail.com
+
 🔗LinkedIn [Carlos Sevilla LinkedIn](https://www.linkedin.com/in/carlos-alberto-sevilla/)
 ## :briefcase: Projects' Portfolio
 
