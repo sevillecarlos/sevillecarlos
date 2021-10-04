@@ -11,11 +11,11 @@ Available for hire.
 - ✌️ Collaborate with the best ones
 ### 📫 How to reach me: 
 
-📧 email: andresjex@hotmail.com
+📧 email: sevillecarlos@gmail.com
 
 ## :briefcase: Projects' Portfolio
 
-[Portfolio](https://jarfsoft.github.io/Portfolio/)
+[Portfolio](https://carlos-sevilla.netlify.app/)
 
 ### :muscle: Mastered
 
