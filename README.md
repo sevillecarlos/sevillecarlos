@@ -1,8 +1,7 @@
 ## Carlos Alberto Sevilla Fernandez - Full Stack Developer
-### Hi there 👋
+### Greetings  🤝
 
-My name is Carlos Sevilla. Front-end and Back-end web developer experienced in JavaScript, React and Ruby on Rails, improving constantly.
-Available for hire.
+My name is Carlos Sevilla, a full stack developer always looking for new challenges that will bring out the best in me, with experience in different development technologies as front-end, back-end and database.
 
 ### 📇 Get in contact with me: 
 
