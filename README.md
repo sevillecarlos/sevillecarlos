@@ -11,7 +11,7 @@ Available for hire.
 - ✌️ Collaborate with the best ones
 ### 📫 How to reach me: 
 
-📧 email: sevillecarlos@gmail.com
+email: sevillecarlos@gmail.com
 
 ## :briefcase: Projects' Portfolio
 
