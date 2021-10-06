@@ -34,6 +34,7 @@ My name is Carlos Sevilla, a full stack developer always looking for new challen
 
 ### 📖 I’m currently learning 
 ![](https://img.shields.io/badge/Front--End-Ember-red)
+![](https://img.shields.io/badge/Front--End-Angular-red)
 ![](https://img.shields.io/badge/Back--End-DJango-green)
 
 ## 🖥️ Relevant Projects
