@@ -41,12 +41,15 @@ My name is Carlos Sevilla, a full stack developer always looking for new challen
 <a href="https://github.com/sevillecarlos/commerc-e">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sevillecarlos&repo=commerc-e" />
 </a>
+
 <a href="https://github.com/sevillecarlos/music-recommendation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sevillecarlos&repo=music-recommendation" />
 </a>
+
 <a href="https://github.com/sevillecarlos/typing-race">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sevillecarlos&repo=typing-race" />
 </a>
+
 <a href="https://github.com/sevillecarlos/medical-mas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sevillecarlos&repo=medical-mas" />
 </a>
