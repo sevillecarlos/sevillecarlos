@@ -34,6 +34,7 @@ My name is Carlos Sevilla, a full stack developer always looking for new challen
 ![](https://img.shields.io/badge/Library-Redux-purple)
 
 ![](https://img.shields.io/badge/Database-MySQL-yellow)
+![](https://img.shields.io/badge/Database-PostgresSQL-blue)
 ![](https://img.shields.io/badge/Database-MongoDB-green)
 
 ### 📖 I’m currently learning 
