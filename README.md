@@ -16,6 +16,7 @@ My name is Carlos Sevilla, a full stack developer always looking for new challen
 ![](https://img.shields.io/badge/Programming--Language-JavaScript-yellow)
 ![](https://img.shields.io/badge/Programming--Language-TypeScript-blue)
 ![](https://img.shields.io/badge/Programming--Language-Ruby-red)
+![](https://img.shields.io/badge/Programming--Language-Python-yellow)
 ![](https://img.shields.io/badge/Programming--Language-C++-blue)
 
 ![](https://img.shields.io/badge/Front--End-HTML-orange)
